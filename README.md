@@ -1,12 +1,12 @@
-# Open OnDemand RStudio App for Delta
+# Open OnDemand RStudio App for CampusCluster
 
-Interactive RStudio app for Delta's Open OnDemand portal
+Interactive RStudio app for CampusCluster's Open OnDemand portal
 
 ## Requirements
 
 On compute nodes (NOT the Open OnDemand node):
 
- - [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) and relevant modules for MATLAB
+ - [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) and relevant modules for RStudio
  - Apptainer
 
 ## Installation
@@ -18,4 +18,3 @@ On compute nodes (NOT the Open OnDemand node):
 ## Acknowledgements
 
  - [OSC/bc_osc_jupyter](https://github.com/OSC/bc_osc_jupyter)
- - [matlab-proxy](https://github.com/mathworks/matlab-proxy)
